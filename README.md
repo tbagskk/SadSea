@@ -81,6 +81,8 @@ However, despite our efforts, the project did not achieve the expected success, 
 
 The feedback and challenges encountered throughout the project have been learning opportunities, allowing me to develop essential skills in the blockchain, digital marketing, and project management domains. Although the project did not unfold as planned, it served as a crucial step in my professional journey, preparing me for future projects and continuous growth in this exciting field.
 
+<br/>
+
 ![al-text](PicturesReadMe/sadsea.PNG)
 
 ![alt-text](PicturesReadMe/magiceden.PNG)
